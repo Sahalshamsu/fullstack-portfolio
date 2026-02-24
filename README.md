@@ -5,7 +5,8 @@ https://github.com/Sahalshamsu
 
 ## Projects Included
 1. Pneumonia Detection System (Django + CNN)
-2. [Add any other project if available]
+2. MERN Stack
+3. HTML Projects
 
 ## Documentation Sections
 - Project Overview
